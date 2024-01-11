@@ -18,3 +18,6 @@
 <br />
 
 현재는 BaekjoonHub의 기본 설정인 난이도별로 디렉토리가 설정됩니다.
+
+
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/seejnn/Algorithm-Study)
