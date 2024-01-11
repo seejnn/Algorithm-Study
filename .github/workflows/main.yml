@@ -28,4 +28,4 @@ jobs:
       - name: Update README
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: python path/to/your/script.py
+        run: python stats.py
